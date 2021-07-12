@@ -1,0 +1,28 @@
+<!DOCTPYE HTML>
+<html>
+<head>
+<titel>N.LOKESWARAREDDY<titel/>
+<head/>
+<body bgcolor="yellow">
+<h1>ms office html</h1>
+<h2>how many ips will get assign will be decided on the subnet mask number.
+
+
+	<p>internet wire---router--private network--laptop
+
+	Router is creating another network to share.
+	i.e. intranet(private).</p>
+
+	internet- public ip-can be accessed anywhere.
+	intranet - private(10,172,192)-vpc/vpn
+
+
+
+	internet-----router(reverse proxy)------laptop
+
+	internet---Reverse proxy-</h2>
+
+<p>h1https://github.com/karunyalokesh/lokesh1/blob/main/l.jpeg</p>
+
+<body/>
+<html/>
